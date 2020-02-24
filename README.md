@@ -1,7 +1,7 @@
 # EasyMile_shrd_ptr
 C++ shared pointer implementation
 
-# Operating systsem
+# Operating system
 this libraray is developed and tested under the Linux Manjaro 19.0 distubition.
 
 # Compling 
