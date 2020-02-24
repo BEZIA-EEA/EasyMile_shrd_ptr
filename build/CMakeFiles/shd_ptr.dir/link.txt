@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/shd_ptr.dir/main.cpp.o  -o shd_ptr 

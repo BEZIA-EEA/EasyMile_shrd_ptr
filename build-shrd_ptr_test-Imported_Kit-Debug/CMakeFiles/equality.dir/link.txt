@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/equality.dir/main.cpp.o CMakeFiles/equality.dir/home/ayoub/Documents/EasyMile/googletest/googletest/src/gtest-all.cc.o CMakeFiles/equality.dir/home/ayoub/Documents/EasyMile/googletest/googlemock/src/gmock-all.cc.o  -o equality  -lpthread 

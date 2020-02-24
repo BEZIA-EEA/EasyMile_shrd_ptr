@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ayoub/Documents/EasyMile/main.cpp
+iostream
+-
+shared_ptr.h
+/home/ayoub/Documents/EasyMile/shared_ptr.h
+myclass.h
+/home/ayoub/Documents/EasyMile/myclass.h
+
+/home/ayoub/Documents/EasyMile/myclass.h
+
+/home/ayoub/Documents/EasyMile/shared_ptr.h
+iostream
+-
+
