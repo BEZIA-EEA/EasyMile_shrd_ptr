@@ -1,12 +1,15 @@
 # EasyMile_shrd_ptr
 C++ shared pointer implementation
 
-# compling 
+# Operating systsem
+this libraray is developed and tested under the Linux Manjaro 19.0 distubition.
+
+# Compling 
 
 cd build
 
 cmake ..
 
-# unit tests
+# Unit tests
 
-to run the unit tests it recommended to use Qt creator and open the file "shrd_ptr_test/CMakeListes.txt" as a new project  
+to run unit tests, it is recommended to use Qt creator and to open the file "shrd_ptr_test/CMakeListes.txt" as a new project.
